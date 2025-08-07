@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=innoxv&show_icons=true&theme=radical)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=innoxv&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=innoxv&layout=compact)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=innoxv&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
