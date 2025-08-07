@@ -7,5 +7,5 @@
 
 
 
-![Snake Animation](https://github.com/innoxv/innoxv/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/innoxv/innoxv/blob/main/output/github-contribution-grid-snake-dark.svg)
 
