@@ -3,9 +3,5 @@
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=innoxv&theme=dark)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=innoxv&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 ![Snake Animation](https://github.com/innoxv/innoxv/blob/main/output/github-contribution-grid-snake-dark.svg)
 
