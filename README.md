@@ -2,12 +2,12 @@
 <div>
 <picture>
   <source 
-    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=5000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=55&lines=Fullstack+Software+Developer;" 
+    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=5000&pause=5000&color=FFFFFF&center=true&vCenter=true&width=500&height=55&lines=Fullstack+Software+Developer;" 
     media="(prefers-color-scheme: dark)" />
   <source 
-    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=5000&pause=1000&color=0D1117&center=true&vCenter=true&width=500&height=55&lines=Fullstack+Software+Developer;" 
+    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=5000&pause=5000&color=0D1117&center=true&vCenter=true&width=500&height=55&lines=Fullstack+Software+Developer;" 
     media="(prefers-color-scheme: light)" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=5000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=500&height=55&lines=Fullstack+Software+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=5000&pause=5000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=500&height=55&lines=Fullstack+Software+Developer;" alt="Typing SVG" />
 </picture>
 </div>
 
