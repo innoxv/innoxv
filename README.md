@@ -1,23 +1,23 @@
 <!-- GitHub Stats -->
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=innoxv&show_icons=true&theme=radical" 
+    srcset="https://readme-stats-inno.vercel.app/api?username=innoxv&show_icons=true&theme=radical" 
     media="(prefers-color-scheme: dark)" />
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=innoxv&show_icons=true&theme=default" 
+    srcset="https://readme-stats-inno.vercel.app/api?username=innoxv&show_icons=true&theme=default" 
     media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=innoxv&show_icons=true&theme=default" />
+  <img src="https://readme-stats-inno.vercel.app/api?username=innoxv&show_icons=true&theme=default" />
 </picture>
 
 <!-- Top Languages -->
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=innoxv&layout=compact&theme=radical" 
+    srcset="https://readme-stats-inno.vercel.app/api/top-langs/?username=innoxv&layout=compact&theme=radical" 
     media="(prefers-color-scheme: dark)" />
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=innoxv&layout=compact&theme=default" 
+    srcset="https://readme-stats-inno.vercel.app/api/top-langs/?username=innoxv&layout=compact&theme=default" 
     media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innoxv&layout=compact&theme=default" />
+  <img src="https://readme-stats-inno.vercel.app/api/top-langs/?username=innoxv&layout=compact&theme=default" />
 </picture>
 
 <!-- Snake Animation -->
