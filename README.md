@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=5000&pause=5000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=500&height=55&lines=Fullstack+Software+Developer;" alt="Typing SVG" />
 </picture>
 
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1fwZDeoy_a7eFpnAcALac7JffLwUubYWW/view?usp=sharing) 
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1fwZDeoy_a7eFpnAcALac7JffLwUubYWW/preview?usp=sharing) 
 </div>
 <!-- GitHub Stats -->
 <picture>
