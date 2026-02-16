@@ -9,8 +9,9 @@
     media="(prefers-color-scheme: light)" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=5000&pause=5000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=500&height=55&lines=Fullstack+Software+Developer;" alt="Typing SVG" />
 </picture>
-</div>
 
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1fwZDeoy_a7eFpnAcALac7JffLwUubYWW/view?usp=sharing) 
+</div>
 <!-- GitHub Stats -->
 <picture>
   <source 
@@ -21,7 +22,6 @@
     media="(prefers-color-scheme: light)" />
   <img src="https://readme-stats-inno.vercel.app/api?username=innoxv&show_icons=true&theme=default" />
 </picture>
-
 <!-- Top Languages -->
 <picture>
   <source 
@@ -32,7 +32,6 @@
     media="(prefers-color-scheme: light)" />
   <img src="https://readme-stats-inno.vercel.app/api/top-langs/?username=innoxv&layout=compact&theme=default" />
 </picture>
-
 <!-- Snake Animation -->
 <picture>
   <source 
